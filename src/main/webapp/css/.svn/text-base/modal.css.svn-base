@@ -1,0 +1,85 @@
+.modal-content {
+	border-radius:3px;
+	background-color:#F1F8FE;
+}
+#folderTree .list-group {
+	margin-bottom: 0;
+}
+#folderTree {
+	min-height: 200px;
+	max-height: 300px;
+	overflow-y: auto;
+	max-width: 316px;
+	overflow-x: auto;
+}
+
+.modal {
+	top:15%;
+}
+
+.modal-header{
+	text-align: center;
+	border-bottom: 0;
+}
+
+.modal-footer{
+	border-top: 1px solid #ddd;
+}
+
+.modal-sm {
+    width: 350px;
+}
+
+.modal-md{
+	width: 500px;
+}
+
+.modal-content .modal-header {
+	background-color:#f1f8fe;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+}
+
+.modal-header .modal-title {
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+.form-group label {
+	font-size:13px;
+	font-weight:bold;
+}
+
+@media screen and (min-width: 1366px){
+	.btnClass {
+		float: left;
+		margin-left:-30px;
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 1366px){
+	.btnClass {
+		float:left;
+		margin-left:-10px;
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 992px){
+	.btnClass {
+	    float:left;
+	    margin-left:0;
+	    margin-top: 10px;
+	}
+}
+
+#groupInfoModal .modal-body form>div,#createGroupModal .modal-body form>div{
+	text-align:center;
+	width: 25%;
+	float: left;
+	margin: 5px auto;
+}
+
+.modal-body label{
+	 font-size: 15px;
+}

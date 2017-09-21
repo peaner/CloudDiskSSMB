@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MyRepository/!svn/ver/241/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper
+END
+GroupMemberInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/MyRepository/!svn/ver/241/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/GroupMemberInfoMapper.xml
+END
+CollectInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MyRepository/!svn/ver/142/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/CollectInfoMapper.xml
+END
+FileInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/MyRepository/!svn/ver/222/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/FileInfoMapper.xml
+END
+FolderRelationMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/MyRepository/!svn/ver/157/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/FolderRelationMapper.xml
+END
+FolderInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MyRepository/!svn/ver/211/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/FolderInfoMapper.xml
+END
+ShareInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/MyRepository/!svn/ver/171/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/ShareInfoMapper.xml
+END
+CloudDiskUserMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/MyRepository/!svn/ver/176/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/CloudDiskUserMapper.xml
+END
+GroupInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/MyRepository/!svn/ver/207/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/GroupInfoMapper.xml
+END
+CloudDiskInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/MyRepository/!svn/ver/101/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/CloudDiskInfoMapper.xml
+END
+RecycleInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MyRepository/!svn/ver/145/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/mapper/RecycleInfoMapper.xml
+END

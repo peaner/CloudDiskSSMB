@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.springmvc.dao.GroupMemberInfoMapper" >
+  <resultMap id="GroupInfoResultMap" type="cn.springmvc.model.GroupInfo">
+		<result column="groupID" property="groupID" jdbcType="VARCHAR" />
+		<result column="groupName" property="groupName" jdbcType="VARCHAR" />
+		<result column="operator" property="operator" jdbcType="VARCHAR" />
+		<result column="createDate" property="createDate" jdbcType="VARCHAR" />
+  </resultMap>
+  <resultMap id="CloudDiskUserResultMap" type="cn.springmvc.model.CloudDiskUser">
+		<result column="userID" property="userID" jdbcType="VARCHAR" />
+		<result column="userName" property="userName" jdbcType="VARCHAR" />
+  </resultMap>
+  <!-- 查询基础字段 -->
+  <sql id="Base_Column_List">
+		groupID, userID
+  </sql>
+  <!-- 查询基础条件 -->
+  <sql id="Base_Conditon_List">
+      <if test="groupID!=null">
+		  and groupID = #{groupID}
+	  </if>
+	  <if test="userID!=null">
+		  and userID = #{userID}
+	  </if>
+  </sql>	
+  <select id="queryByUserId" parameterType="cn.springmvc.model.GroupMemberInfoKey"  resultMap="GroupInfoResultMap">
+  	select group_info.groupID as groupID,groupName, operator, createDate 
+  	from group_member_info,group_info 
+  	where group_member_info.userID = #{userID} and group_member_info.groupID = group_info.groupID
+  </select>
+
+  <select id="queryByGroupId" parameterType="cn.springmvc.model.GroupMemberInfoKey"  
+  		resultMap="CloudDiskUserResultMap">
+  	select userName,cloud_disk_user.userID as userID
+  	from group_member_info,cloud_disk_user
+  	where group_member_info.groupID = #{groupID} and group_member_info.userID != #{userID} and group_member_info.userID = cloud_disk_user.userID
+  </select>
+  
+  <select id="selectRestMemByGroupId" parameterType="cn.springmvc.model.GroupMemberInfoKey"
+  		resultMap="CloudDiskUserResultMap">
+  	select userID,userName
+    from cloud_disk_user
+    where userID not in
+   (SELECT cloud_disk_user.userID as userID 
+    from cloud_disk_user,group_member_info 
+    where group_member_info.groupID =#{groupID} and group_member_info.userID=cloud_disk_user.userID) 	
+  </select>
+  
+  <delete id="delete" parameterType="cn.springmvc.model.GroupMemberInfoKey" >
+    delete from group_member_info
+    where 1 = 1
+    <include refid="Base_Conditon_List"></include>
+  </delete>
+  
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String" >
+    delete from group_member_info
+    where groupID = #{_parameter}
+  </delete>
+  
+  <insert id="insert" parameterType="cn.springmvc.model.GroupMemberInfoKey" >
+    insert into group_member_info (groupID, userID)
+    values (#{groupid,jdbcType=VARCHAR}, #{userid,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="cn.springmvc.model.GroupMemberInfoKey" >
+    insert into group_member_info
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="groupID != null" >
+        groupID,
+      </if>
+      <if test="userID != null" >
+        userID,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="groupID != null" >
+        #{groupID},
+      </if>
+      <if test="userID != null" >
+        #{userID},
+      </if>
+    </trim>
+  </insert>
+</mapper>

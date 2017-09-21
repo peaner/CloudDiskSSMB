@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/MyRepository/!svn/ver/241/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service
+END
+SettingManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/svn/MyRepository/!svn/ver/73/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/SettingManageService.java
+END
+MySharedManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 246
+/svn/MyRepository/!svn/ver/202/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/MySharedManageService.java
+END
+CollectFileManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/svn/MyRepository/!svn/ver/186/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/CollectFileManageService.java
+END
+MessageManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/svn/MyRepository/!svn/ver/73/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/MessageManageService.java
+END
+MyFileManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/svn/MyRepository/!svn/ver/222/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/MyFileManageService.java
+END
+BaseFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/MyRepository/!svn/ver/113/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/BaseFileService.java
+END
+UserManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/MyRepository/!svn/ver/107/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/UserManageService.java
+END
+CloudDiskCapacityManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 255
+/svn/MyRepository/!svn/ver/159/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/CloudDiskCapacityManageService.java
+END
+PublicSharedManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/svn/MyRepository/!svn/ver/171/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/PublicSharedManageService.java
+END
+RecycleFileManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/svn/MyRepository/!svn/ver/233/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/RecycleFileManageService.java
+END
+GroupManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/MyRepository/!svn/ver/241/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/GroupManageService.java
+END
+ShareManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/MyRepository/!svn/ver/73/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/service/ShareManageService.java
+END

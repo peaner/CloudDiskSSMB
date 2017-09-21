@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MyRepository/!svn/ver/101/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf
+END
+fdfs_client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/MyRepository/!svn/ver/2/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/fdfs_client.conf
+END
+spring-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/MyRepository/!svn/ver/29/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/spring-mvc.xml
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/MyRepository/!svn/ver/76/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/mybatis-config.xml
+END
+spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MyRepository/!svn/ver/2/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/spring.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/MyRepository/!svn/ver/52/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/jdbc.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/MyRepository/!svn/ver/29/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/log4j.properties
+END
+spring-mybatis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/MyRepository/!svn/ver/101/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/resources/conf/spring-mybatis.xml
+END

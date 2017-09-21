@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MyRepository/!svn/ver/210/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model
+END
+GroupInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MyRepository/!svn/ver/102/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/GroupInfo.java
+END
+ShareInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MyRepository/!svn/ver/92/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/ShareInfo.java
+END
+FolderRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/MyRepository/!svn/ver/101/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/FolderRelation.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/FileInfo.java
+END
+TreeFolderDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/MyRepository/!svn/ver/210/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/TreeFolderDataInfo.java
+END
+QueryShareObjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/MyRepository/!svn/ver/111/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/QueryShareObjectInfo.java
+END
+QueryMySharedFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/MyRepository/!svn/ver/92/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/QueryMySharedFileInfo.java
+END
+RecycleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/RecycleInfo.java
+END
+CloudDiskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/CloudDiskInfo.java
+END
+CloudDiskUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/MyRepository/!svn/ver/56/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/CloudDiskUser.java
+END
+FolderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/MyRepository/!svn/ver/124/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/FolderInfo.java
+END
+CollectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/CollectInfo.java
+END
+GroupMemberInfoKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/GroupMemberInfoKey.java
+END
+MessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/MyRepository/!svn/ver/70/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/MessageInfo.java
+END
+QueryRecyleTableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/MyRepository/!svn/ver/76/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B/04%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/%E4%BA%91%E4%BA%A7%E5%93%81%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81/CloudDiskSSMB/src/main/java/cn/springmvc/model/QueryRecyleTableInfo.java
+END
